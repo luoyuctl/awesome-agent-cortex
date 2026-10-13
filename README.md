@@ -131,6 +131,7 @@ Hermes Agent runtime, deployment rails, and operator resources.
 - [hermes-fly](https://github.com/alexfazio/hermes-fly) - Fly.io deployment and operations CLI for Hermes Agent with deploy, logs, doctor, and teardown workflows.
 - [Hermes Stack Maturity Ladder (this repo)](guides/hermes-stack-maturity-ladder.md) - L1-L3 readiness model with upgrade paths and operational checklist.
 - [Hermes Stack Quickstart Recipes (this repo)](guides/hermes-stack-quickstart-recipes.md) - Copy/paste recipes for local dev, hosted production, secure mode, and CI operations.
+- [Agent Barn](https://github.com/aai-labs/agent-barn) - Open-source (Apache-2.0) control plane that runs Hermes Agent (and OpenClaw) on your own Kubernetes cluster via Helm, with Slack/Teams/Telegram/Discord/email front ends and full audit logging of conversations, tool calls, logs and costs.
 
 ## CLI and TUI Tools
 
